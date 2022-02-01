@@ -112,7 +112,8 @@ function draw(){
   
     fill(black);
     square(x_sq, len * 11, len); 
-
+    
+    text('BACKSPACE = CLEAR', 800, 675);
 
     // draw in paint app
    if(mouseIsPressed && mouseX > len + 3 && mouseY > 40)  
@@ -139,8 +140,6 @@ function draw(){
 
 
 function keyPressed()  {
-  
-  text('BACKSPACE', 500, 500);
   
   if(keyCode === BACKSPACE)  
     {
