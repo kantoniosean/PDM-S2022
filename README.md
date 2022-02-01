@@ -9,4 +9,4 @@
 - Example-4: The fourth example in P5 drawing assignment of a red star, green circle, and dark blue background
   ##### Link: [Example-4](https://kantoniosean.github.io/PDM-S2022/Example-4/).
 ## Paint-App: A paint app where you can use many differnt colors to draw (use backspace to clear page)
-  ##### Link: [paint-app](https://kantoniosean.github.io/PDM-S2022/paint-app/).
+  - ##### Link: [paint-app](https://kantoniosean.github.io/PDM-S2022/paint-app/).
