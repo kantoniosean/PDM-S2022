@@ -119,7 +119,7 @@ function draw(){
    if(mouseIsPressed && mouseX > len + 3 && mouseY > 40)  
    {
       stroke(lineColor);
-      strokeWeight(40);
+      strokeWeight(20);
       curve(mouseX, mouseY, mouseX, mouseY);
       line(mouseX, mouseY, pmouseX, pmouseY);
 
