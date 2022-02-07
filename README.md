@@ -12,5 +12,5 @@
 - A paint app where you can use many differnt colors to draw //use backspace key or refresh to clear page:)
   ##### Link: [paint-app](https://kantoniosean.github.io/PDM-S2022/paint-app/).
 ## Sprite Animation
-- Nine animated figures can walk left to wite across the screen. Left-arrow key = left. Right-arrow key = right.
+- Nine animated figures can walk left to right across the screen. Left-arrow key = left. Right-arrow key = right.
   ##### Link: [sprite-animation](https://kantoniosean.github.io/PDM-S2022/sprite-animation/).
