@@ -14,3 +14,6 @@
 ## Sprite Animation
 - Nine animated figures can walk left to right across the screen. Left-arrow key = left. Right-arrow key = right.
   ##### Link: [sprite-animation](https://kantoniosean.github.io/PDM-S2022/sprite-animation/).
+## Squish Game
+- Squish as many bugs as you can! Bugs move faster as timer goes down! Be quick!
+  ##### Link: [squish-game](https://kantoniosean.github.io/PDM-S2022/squish-game/).
