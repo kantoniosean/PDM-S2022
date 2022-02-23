@@ -20,5 +20,5 @@
   ##### Link: [squish-game](https://kantoniosean.github.io/PDM-S2022/squish-game/).
 ## Sound Assignments
 ### Sound Sampler
-- Play differnt Ariana Grande harmonies using this sound sampler. Control the sound delay using the slider at the bottom.
+- Play different Ariana Grande harmonies using this sound sampler. Control the sound delay using the slider at the bottom.
   ##### Link: [sound-sampler](https://kantoniosean.github.io/PDM-S2022/sampler/).
