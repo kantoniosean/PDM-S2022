@@ -22,3 +22,6 @@
 ### Sound Sampler
 - Play different Ariana Grande harmonies using this sound sampler. Control the sound delay using the slider at the bottom.
   ##### Link: [sound-sampler](https://kantoniosean.github.io/PDM-S2022/sampler/).
+### Synth and Sequencer 
+- Play differnt notes. Use slider for reverb!
+  ##### Link: [synths-sequencers](https://kantoniosean.github.io/PDM-S2022/synths-sequencers/).
